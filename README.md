@@ -15,7 +15,7 @@ Angular: 17.3.12
 
 
 Setup Project
-git clone https://github.com/AngularExamplesHub/contact-app.git
+git clone https://github.com/prasantagithub07/CMS2.git
 
 **install npm packages and restore dotnet nuget pakages in command promt:**  
 npm install  
